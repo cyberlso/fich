@@ -1,0 +1,8 @@
+Django==1.6.5
+South==1.0
+django-tables2==0.15.0
+gnureadline==6.3.3
+ipython==2.1.0
+python-decouple==2.2
+six==1.7.3
+yolk==0.4.3
